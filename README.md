@@ -24,13 +24,13 @@ App Screenshot  <!-- Replace with actual screenshot -->
 
 #### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/lottery-app.git
-cd lottery-app
+git clone https://github.com/Ethicalwizard79/Lottery_App.git
+cd lottery_py
 ```
 
 #### Run the Application
 ```bash
-python lottery_app.py
+python lottery_py.py
 ```
 
 ### 📦 Dependencies
@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 🌐 Contact
 - Your Name - [Your Email]
-- Project Link: [https://github.com/yourusername/lottery-app](https://github.com/yourusername/lottery-app)
+- Project Link: (https://github.com/Ethicalwizard79/Lottery_App.git)
 
 ### 🙌 Acknowledgments
 - Python Software Foundation
